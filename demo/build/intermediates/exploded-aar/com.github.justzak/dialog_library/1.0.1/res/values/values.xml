@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DilatingDotsProgressBar"><attr name="android:radius"/><attr name="android:color"/><attr format="integer" name="dd_numDots"/><attr format="float" name="dd_scaleMultiplier"/><attr format="integer" name="dd_animationDuration"/><attr format="dimension" name="dd_horizontalSpacing"/></declare-styleable>
+    <string name="app_name">DilatingDotsProgressBar</string>
+</resources>

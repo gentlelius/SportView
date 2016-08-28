@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\notification_menu.xml",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\menu\\notification_menu.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\contacts_search_menu.xml",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_menu.xml",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\rts_activity_menu.xml",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\menu\\rts_activity_menu.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\global_search_menu.xml",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\menu\\global_search_menu.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\message_activity_more_menu.xml",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\menu\\message_activity_more_menu.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\menu\\custom_notification_activity_menu.xml",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\menu\\custom_notification_activity_menu.xml"
+    }
+]

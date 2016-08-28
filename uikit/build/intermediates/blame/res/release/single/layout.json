@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_preview_image_from_camera_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_preview_image_from_camera_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contacts_count_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contacts_count_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_picker_photofolder_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_picker_photofolder_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_menu_dialog.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_menu_dialog.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_easy_alert_dialog_with_edit_text.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_easy_alert_dialog_with_edit_text.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_action_bar_custom_view.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_action_bar_custom_view.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_advanced_team_info_divider_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_advanced_team_info_divider_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_preview_image_layout_zoom_control.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_preview_image_layout_zoom_control.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_team_name_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_team_name_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_easy_alert_dialog_title.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_easy_alert_dialog_title.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contacts_select_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contacts_select_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_location.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_location.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_actions_item_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_actions_item_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_preview_image_from_local_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_preview_image_from_local_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_picker_images_fragment.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_picker_images_fragment.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_action_bar_right_picker_preview.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_action_bar_right_picker_preview.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_watch_snapchat_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_watch_snapchat_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contacts_abc_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contacts_abc_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_picker_photo_grid_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_picker_photo_grid_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_team_member_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_team_member_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_text.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_text.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_popup_menu_list_black_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_popup_menu_list_black_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_advanced_team_info_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_advanced_team_info_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contact_loading_frame.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contact_loading_frame.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_fragment.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_fragment.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_picker_image_preview_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_picker_image_preview_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_team_message_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_team_message_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contacts_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contacts_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_action_bar_right_clickable_tv.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_action_bar_right_clickable_tv.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_custom_dialog_list_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_custom_dialog_list_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_advanced_team_member_info_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_advanced_team_member_info_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_recent_contacts.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_recent_contacts.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_crop_image_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_crop_image_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_advanced_team_announce_list_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_advanced_team_announce_list_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_watch_picture_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_watch_picture_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_picker_album_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_picker_album_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_thumb_progress_bar_text.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_thumb_progress_bar_text.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_team_info_divider_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_team_info_divider_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_advanced_team_announce.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_advanced_team_announce.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_user_profile_toggle_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_user_profile_toggle_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_activity_bottom_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_activity_bottom_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_activity_text_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_activity_text_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_video.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_video.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_listview_refresh.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_listview_refresh.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_sticker_picker_view.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_sticker_picker_view.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_popup_menu_black_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_popup_menu_black_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_easy_alert_dialog_default_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_easy_alert_dialog_default_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contact_select_area_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contact_select_area_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_team_member_grid_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_team_member_grid_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contact_text_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contact_text_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_audio.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_audio.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_easy_alert_dialog_with_listview.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_easy_alert_dialog_with_listview.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_preview_image_layout_multi_touch.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_preview_image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_unknown.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_unknown.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_pick_image_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_pick_image_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_notification.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_notification.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_new_message_tip_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_new_message_tip_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_round_loading_progress_bar.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_round_loading_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\image_layout_multi_touch.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\image_layout_multi_touch.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_easy_alert_dialog_bottom_button.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_easy_alert_dialog_bottom_button.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_read_recipt_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_read_recipt_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_emoji_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_emoji_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_recent_contact_list_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_recent_contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_team_info_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_team_info_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_time_text_view_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_time_text_view_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_zbra_loading_progress_bar.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_zbra_loading_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_popup_menu_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_popup_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_advanced_team_create_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_advanced_team_create_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_watch_media_download_progress_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_watch_media_download_progress_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_voice_trans_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_voice_trans_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_popup_menu_list_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_popup_menu_list_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contacts.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contacts.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_picker_image_folder_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_picker_image_folder_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_capture_video_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_capture_video_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_advanced_team_nickname_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_advanced_team_nickname_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_menu_dialog_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_menu_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_contacts_select.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_contacts_select.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_watch_video_activity.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_watch_video_activity.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_emoji_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_emoji_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_advanced_team_create_announce.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_advanced_team_create_announce.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_activity_actions_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_activity_actions_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_easy_progress_dialog.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_easy_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_picture.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_picture.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\nim_message_item_name_layout.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\res\\layout\\nim_message_item_name_layout.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\beif\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    }
+]

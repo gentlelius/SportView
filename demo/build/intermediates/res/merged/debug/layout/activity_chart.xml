@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+
+    <include layout="@layout/include_titlebar" />
+
+    <lecho.lib.hellocharts.view.ColumnChartView
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:padding="5dp"
+        android:id="@+id/chart"/>
+
+
+    <ListView
+        android:background="#F5F5F5"
+        android:layout_margin="16dp"
+        android:id="@+id/list_choice"
+        android:listSelector="@drawable/list_item_bg_selecter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+
+</LinearLayout>

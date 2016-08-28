@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/iv_item_icon"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:src="@drawable/op_got"
+        android:scaleType="fitCenter"/>
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/tv_item_title"
+        android:layout_alignBottom="@+id/iv_item_icon"
+    android:text="成就"
+    android:textSize="16sp"
+    android:textColor="#F9924C"
+    android:layout_toRightOf="@+id/iv_item_icon"
+    android:layout_marginLeft="20dp"/>
+
+    <TextView
+        android:id="@+id/tv_item_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="查看获得的成绩以及称谓"
+        android:textSize="12sp"
+        android:layout_below="@+id/tv_item_title"
+        android:layout_alignLeft="@+id/tv_item_title"
+        android:layout_marginTop="4dp"
+        android:textColor="#807d7d"/>
+</RelativeLayout>

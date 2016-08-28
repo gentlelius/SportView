@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HelloCharts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/libs/HelloCharts.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

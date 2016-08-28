@@ -1,0 +1,1470 @@
+[
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_message_notify.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\new_message_notify.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_new_message_notify.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_new_message_notify.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_female.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_female.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_speaker_icon_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_pwd_lock_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_txt.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_txt.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_html.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_html.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_location_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_single_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_location_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_location_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_add_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_add_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_red_round_button_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_red_round_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dark_logo_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_checkbox_unchecked.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_5.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_5.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_word.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_word.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_3.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\network_grade_3.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_moon_page_unselected.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_moon_page_unselected.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_audio_playing_right_blue_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_arrow.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\back_arrow.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_toast_bg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\dialog_toast_bg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_mute_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_default_img_failed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_default_img_failed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_checked.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_mute_icon_checked.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_activity_top_tip.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_pdf.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_pdf.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_64.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_64.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_dark_logo_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_1.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_excel.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_excel.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_red_long_btn_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\g_red_long_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nick_name_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nick_name_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_right_type_audio.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_right_type_audio.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_voice_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_voice_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_txt.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_txt.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_call_bg.jpg",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_call_bg.jpg"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_edit_delete.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_icon_edit_delete.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_back_arrow_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\chat_room_back_arrow_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_call_wifi_unavailable.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_audio_call_wifi_unavailable.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_red_round_button.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_red_round_button.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_37.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_37.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_video_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_add_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_add_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_png.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_png.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_tab_new_message_notify.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\main_tab_new_message_notify.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_keyboard.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_emotion_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_send_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_male.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_male.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_message_actionbar_team.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_ic_message_actionbar_team.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_grey.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_audio_open.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\icon_audio_open.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_alert_btn_left_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_alert_btn_left_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_foreground.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_right_blue_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_image_download_failed.jpg",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_image_download_failed.jpg"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_grey_delete_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_grey_delete_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\master_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\master_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_item_delete_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_image_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_image_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_tip_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_tip_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_right_top_btn_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\register_right_top_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_unknow.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_unknow.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_gif.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_gif.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_left_snapchat.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_view_holder_left_snapchat.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_mp4.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_mp4.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_black_list.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_black_list.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_right_snapchat.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_view_holder_right_snapchat.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point5.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\point5.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_top_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_audio_record_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_back_arrow_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\chat_room_back_arrow_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_delete_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_delete_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_image_default.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_image_default.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_switch_mode_video_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_switch_mode_video_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_receive_bg_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_receive_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_audio_record_icon_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_recent_contact_ic_sending.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_mute_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\directory.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\directory.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_ic_failed_small.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\g_ic_failed_small.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_del.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_emoji_del.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_left_white_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_edittext_box_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_room_announce.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\chat_room_announce.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_capture_start_btn.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_video_capture_start_btn.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_moon_page_selected.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_moon_page_selected.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_download_pause.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_icon_download_pause.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_unread_badge.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_g_unread_badge.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timeline_icon_unlike.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\timeline_icon_unlike.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tip_bar_yellow_background.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\tip_bar_yellow_background.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_4.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_4.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow_right.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\shadow_right.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_white_round_button_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_white_round_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\register_right_top_btn_disable.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\register_right_top_btn_disable.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_popup_menu_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_emotion.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_emotion.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_rts_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_rts_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_gif.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_gif.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_video_chat_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_video_chat_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_2.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_html.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_html.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_1.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_1.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_close_camera_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_trans_bg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_trans_bg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_mute_icon_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_ic_close_yellow_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\g_ic_close_yellow_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bar_black_more_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\action_bar_black_more_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_audio_chat_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_audio_chat_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_dark_back_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_preview_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_72.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_72.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_ic_close_yellow.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\g_ic_close_yellow.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_video_chat_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_video_chat_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_loaction_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\btn_loaction_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_2.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_bottom_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_failed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_ic_failed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_plus_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_58.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_58.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_jpg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_jpg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_team.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_search_team.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_cameras_hover.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_cameras_hover.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\action_bar_search_view_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\action_bar_search_view_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_bg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\welcome_bg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_57.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_57.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_mute_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_rts_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_rts_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_video_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_video_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_bottom_logout_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_bottom_logout_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_checked.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_audio_record_icon_checked.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_start.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\record_start.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_ppt.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_ppt.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_hit_letter_bg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_select_dot_avatar.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avatar_def.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avatar_def.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_7.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_7.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_1.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\network_grade_1.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_speaker_icon_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_alert_btn_single_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_alert_btn_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timeline_icon_like.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\timeline_icon_like.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_record_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_image_selected.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_image_selected.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_mp3.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_mp3.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_photo_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_preview_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_reddot.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_icon_reddot.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_checked.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_mute_speaker_bg_checked.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_left_snapchat_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_view_holder_left_snapchat_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timeline_image_loading.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\timeline_image_loading.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_view_holder_right_snapchat_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_view_holder_right_snapchat_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdk_share_dialog_thumb_default.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\sdk_share_dialog_thumb_default.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_btn_image.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\back_btn_image.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_orignal_checked.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_orignal_checked.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_secretary.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_secretary.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_right_type_video.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_right_type_video.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_audio_playing_left_blue_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_arrow_right.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_arrow_right.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dark_back_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_middle_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_no_pickup.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_no_pickup.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_bg_message_tip.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_bg_message_tip.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_excel.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_excel.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_unread_news_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_checkbox_not_checked.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_checkbox_not_checked.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_my_computer.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_my_computer.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_letter_view_hit_point.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_mute_speaker_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow_bottom.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\shadow_bottom.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_close_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_close_video_send.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_close_video_send.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_2.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_2.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_close_camera_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_close_camera_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_disable.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_mute_speaker_bg_disable.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_orignal_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_orignal_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_owner_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_owner_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_top_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_actionbar_white_back_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_account_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\user_account_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_10.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_10.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_cameras.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_cameras.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_ppt.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_ppt.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow_left.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\shadow_left.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_create_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\walk.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\walk.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_create_btn.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_create_btn.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_2.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\network_grade_2.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_single_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_3.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_3.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_8.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_8.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_keyboard_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_pdf.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_pdf.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_png.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_png.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\library\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_disable.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_switch_camera_disable.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_contact_checkbox_checked_green.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_left_type_video.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_left_type_video.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_play_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_video_play_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_plus.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_plus.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle_on.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_slide_toggle_on.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_video_play_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_1.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_trans_fail.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_ic_trans_fail.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_admin_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_admin_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_switch_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_unknow.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_unknow.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_team_announce.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\bg_team_announce.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_multiport.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_multiport.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_alert_btn_right_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_alert_btn_right_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_middle_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_loading_small_white.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_loading_small_white.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_multiport_detail.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_multiport_detail.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_switch_mode_audio_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_switch_mode_audio_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_video_capture_stop_btn.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_rts_send.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\icon_rts_send.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_left_white_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_snapchat_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_snapchat_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_audio_animation_list_left_3.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_retweet_sel.xml",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\bg_retweet_sel.xml"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_49.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_49.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_preview_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_record_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_guess_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_guess_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_actionbar_search_dark_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_messge_history.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_ic_messge_history.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_file_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_file_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_white_btn_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\g_white_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timeline_icon_comment.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\timeline_icon_comment.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_default_img.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_default_img.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_white_logo_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_white_btn_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\g_white_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_speaker_bg_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_mute_speaker_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_jpg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_jpg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_dialog_toast_bg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_dialog_toast_bg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_team_member_delete_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptr_circle_loading.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\ptr_circle_loading.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_g_download_progress_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_notify_msg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_stat_notify_msg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_music_icon_play.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_music_icon_play.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_mute_icon_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_mute_icon_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_plus_photo_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_unsupport_mime_type.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_unsupport_mime_type.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_avatar_group.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_avatar_group.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_emoji_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_emoji_icon_inactive.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\timeline_icon_retweet.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\timeline_icon_retweet.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_rar.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_rar.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_switch_camera_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_switch_camera_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_mp4.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_mp4.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_zip.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_zip.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_refuse_bg_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_refuse_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_zip.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_zip.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\main_menu.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_white_round_button.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_white_round_button.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\marker_info_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\marker_info_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_audio_mode_switch_bg_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\video_audio_mode_switch_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_receive_bg_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_receive_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_alert_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_alert_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_50.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_50.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actionbar_dropdown_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\actionbar_dropdown_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_icon_download_resume.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_icon_download_resume.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\address.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\address.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_green_btn_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\g_green_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_audio_close.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\icon_audio_close.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_record_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_record_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_speaker_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_cover_36.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\room_cover_36.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_friends.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_add_friends.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_bottom_logout_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_bottom_logout_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_logo.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\about_logo.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_refresh_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\pull_refresh_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_6.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_6.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_guess_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_guess_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pin.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\pin.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_audio_mode_switch_bg_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\video_audio_mode_switch_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_audio_chat_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_audio_chat_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\network_grade_0.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\network_grade_0.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle_off.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_slide_toggle_off.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_refuse_bg_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_refuse_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\end.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\end.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_detail_rar.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_detail_rar.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_mute_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_mute_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_slide_toggle.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_slide_toggle.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_verify_remind.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\icon_verify_remind.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\admin_icon.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\admin_icon.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_white_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\edittext_white_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g_red_long_btn_nomal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\g_red_long_btn_nomal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_actionsheet_bottom_normal.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\toast_actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_speaker_icon_checked.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_speaker_icon_checked.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_announce.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\no_announce.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_watch_video_download_progress_background.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_advanced_team.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_advanced_team.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_file_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_file_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_messages_list_empty_bg.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_snapchat_pressed.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_snapchat_pressed.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_icon_9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\head_icon_9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_left_type_audio.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_left_type_audio.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_emoji_ck_bg.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_audio_record_icon_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_audio_record_icon_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_ic_message_actionbar_p2p_add.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\nim_ic_message_actionbar_p2p_add.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\record_video.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\record_video.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\avchat_video_record_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\avchat_video_record_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_loaction_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\btn_loaction_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_mp3.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_mp3.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_message_input_send_pressed.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ic_session_word.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\file_ic_session_word.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nim_picker_preview_unselected.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable-hdpi-v4\\nim_picker_preview_unselected.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_plus_tip_normal.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\message_plus_tip_normal.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scrollbar_handle_holo_dark.9.png",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\drawable-hdpi\\scrollbar_handle_holo_dark.9.png"
+    }
+]

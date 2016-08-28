@@ -1,0 +1,94 @@
+apply plugin: 'com.android.application'
+
+def getGitVersion() {
+    try {
+        return 'git rev-parse --short HEAD'.execute().text.trim()
+    } catch (Throwable th) {
+        return "";
+    }
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion buildToolsVer
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 23
+        buildConfigField "String", "GIT_REVISION", "\"${getGitVersion()}\""
+        buildConfigField "String", "BUILD_DATE", "\"${new Date().toLocaleString()}\"";
+    }
+
+    signingConfigs {
+        debug { storeFile file("debug.keystore") }
+
+        release {
+            storeFile file('release.keystore')
+            storePassword 'thisiskeystorepassword'
+            keyAlias 'nim_demo'
+            keyPassword 'thisiskeypassword'
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.debug
+//            manifestPlaceholders = [ AMAP_KEY:"09fd4efd3e28e9bf1f449ecec7d34bfe" ]
+        }
+
+        release {
+            minifyEnabled true
+            zipAlignEnabled true
+            proguardFile('proguard.cfg')
+            signingConfig signingConfigs.release
+//            manifestPlaceholders = [ AMAP_KEY:"ee20324fba1c7f4ad7a4a207e7f08e8d" ]
+        }
+    }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res', 'res-avchat', 'res-chatroom']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs', 'libs-sdk']
+
+        }
+
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    dexOptions {
+        incremental true
+        preDexLibraries false
+        jumboMode true
+        javaMaxHeapSize "4g"
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+    compile project(path: ':uikit')
+    compile 'com.jiechic.library:xUtils:2.6.14'
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'eu.the4thfloor.volley:com.android.volley:2015.05.28'
+    compile project(':library')
+    compile 'com.android.support:design:24.1.1'
+    compile files('libs/AMap_3DMap_V3.3.2_20160525.jar')
+    compile files('libs/AMap_Location_V2.4.1_20160414.jar')
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
+    compile files('libs/HelloCharts.jar')
+    compile files('libs/SwitchLayout1.0.jar')
+    compile project(':dialog_library')
+}

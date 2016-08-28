@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
+        "source": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_ring.mp3",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_connecting.mp3",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_no_response.mp3",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "D:\\beif\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "D:\\beif\\nim_demo\\demo\\res\\raw\\avchat_peer_busy.mp3"
+    }
+]

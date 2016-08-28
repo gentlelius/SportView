@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/fl_content"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/divider_gray" />
+
+    <RadioGroup
+        android:id="@+id/rg_tab"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_gravity="bottom"
+        android:background="#fafafa"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="1dp"
+        android:paddingTop="2dp" >
+
+        <RadioButton
+            android:id="@+id/rb_home"
+            style="@style/RadioButtonBottomTab"
+            android:checked="true"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/icon_home"
+            android:text="首页" />
+
+        <RadioButton
+            android:id="@+id/rb_meassage"
+            style="@style/RadioButtonBottomTab"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/icon_meassage"
+            android:text="消息"
+            android:checked="false" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/iv_add"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/correct_green_sel"
+                android:padding="8dp"
+                android:src="@drawable/icon_add" />
+        </LinearLayout>
+
+        <RadioButton
+            android:id="@+id/rb_search"
+            style="@style/RadioButtonBottomTab"
+            android:background="@android:color/transparent"
+            android:drawableTop="@drawable/icon_square"
+            android:text="发现" />
+
+        <RadioButton
+            android:id="@+id/rb_user"
+            android:background="@android:color/transparent"
+            style="@style/RadioButtonBottomTab"
+            android:drawableTop="@drawable/icon_selfinfo"
+            android:text="我" />
+    </RadioGroup>
+
+</LinearLayout>

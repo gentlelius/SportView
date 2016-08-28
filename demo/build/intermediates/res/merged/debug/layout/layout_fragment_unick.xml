@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/tv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="填写昵称"
+        android:typeface="monospace"
+        android:textStyle="normal"
+        android:textColor="#696969"
+        android:textSize="24dp"
+        android:layout_centerHorizontal="true"
+        android:shadowColor="@android:color/transparent"
+
+        />
+
+    <TextView
+        android:id="@+id/tv_2"
+        android:layout_below="@+id/tv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="个性化的你更让别人喜欢"
+        android:textColor="#b0b0b0"
+        android:layout_margin="8dp"
+        android:textSize="16sp"
+        android:layout_centerHorizontal="true"
+        android:shadowColor="@android:color/transparent"
+        />
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_uname"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="16dp"
+        android:layout_below="@+id/tv_2"
+        >
+
+        <EditText
+            android:id="@+id/et_uname"
+
+            android:layout_below="@+id/layout_uname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:hint="填写昵称"
+            android:inputType="text"
+            />
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/btn_next1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#b0b0b0"
+        android:textColor="#fff"
+        android:text="下一步"
+        android:enabled="false"
+        android:textSize="16sp"
+        android:layout_margin="4dp"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_below="@+id/layout_uname"/>
+</RelativeLayout>

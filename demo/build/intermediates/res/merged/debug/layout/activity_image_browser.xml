@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_image_brower"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </android.support.v4.view.ViewPager>
+
+    <TextView
+        android:id="@+id/tv_image_index"
+        style="@style/TextViewHeadline"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/shape_oval_rect_agray"
+        android:gravity="center"
+        android:padding="4dp"
+        android:text="1/9"
+        android:textColor="@color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:padding="16dp" >
+
+        <Button
+            android:id="@+id/btn_save"
+            style="@style/TextViewSubhead"
+            android:layout_width="56dp"
+            android:layout_height="36dp"
+            android:background="@drawable/shape_corner_rect_agray"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="保存"
+            android:textColor="@color/white" />
+
+        <!--<Button-->
+            <!--android:id="@+id/btn_original_image"-->
+            <!--style="@style/TextViewSubhead"-->
+            <!--android:layout_width="56dp"-->
+            <!--android:layout_height="36dp"-->
+            <!--android:layout_marginLeft="16dp"-->
+            <!--android:background="@drawable/shape_corner_rect_agray"-->
+            <!--android:gravity="center"-->
+            <!--android:text="原图"-->
+            <!--android:textColor="@color/white" />-->
+
+        <!--<View-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="1dp"-->
+            <!--android:layout_weight="1" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/tv_like"-->
+            <!--style="@style/TextViewSubhead"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="36dp"-->
+            <!--android:background="@drawable/shape_corner_rect_agray"-->
+            <!--android:drawableLeft="@drawable/preview_unlike_btn"-->
+            <!--android:drawablePadding="8dp"-->
+            <!--android:gravity="center"-->
+            <!--android:padding="8dp"-->
+            <!--android:text="赞"-->
+            <!--android:textColor="@color/white" />-->
+    </LinearLayout>
+
+</RelativeLayout>

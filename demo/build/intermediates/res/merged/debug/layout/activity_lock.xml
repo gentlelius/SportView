@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ls.main.activities.Running.LockActivity"
+    android:background="#228F8F8F">
+
+    <ImageView
+        android:id="@+id/iv_touchmv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:background="@color/transparent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/animation_right_touchmove"
+        android:layout_above="@+id/tv_below"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/tv_below"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="右滑解锁"
+        android:textSize="12sp"
+        android:textColor="#bbbbbb"
+        android:layout_marginTop="-16dp"
+        android:layout_marginBottom="8dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="DilatingDotsProgressBar">
+		<attr name="android:radius" />
+		<attr name="android:color" />
+		<attr name="dd_numDots" format="integer" />
+		<attr name="dd_scaleMultiplier" format="float" />
+		<attr name="dd_animationDuration" format="integer" />
+		<attr name="dd_horizontalSpacing" format="dimension" />
+	</declare-styleable>
+</resources>

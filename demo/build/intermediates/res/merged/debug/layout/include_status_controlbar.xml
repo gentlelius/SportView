@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/transparent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/divider_gray" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+       >
+
+        <LinearLayout
+            android:id="@+id/ll_share_bottom"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/bg_tran2gray_sel"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:focusable="false">
+
+            <ImageView
+                android:id="@+id/iv_share_bottom"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/timeline_icon_retweet" />
+
+            <TextView
+                android:id="@+id/tv_share_bottom"
+                style="@style/TextViewBody"
+                android:layout_marginLeft="8dp"
+                android:text="转发"
+                android:textColor="@color/txt_gray" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="@color/divider_gray" />
+
+        <LinearLayout
+            android:id="@+id/ll_comment_bottom"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/bg_tran2gray_sel"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:focusable="false"
+            >
+
+            <ImageView
+                android:id="@+id/iv_comment_bottom"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/timeline_icon_comment" />
+
+            <TextView
+                android:id="@+id/tv_comment_bottom"
+                style="@style/TextViewBody"
+                android:layout_marginLeft="8dp"
+                android:text="评论"
+                android:textColor="@color/txt_gray" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="@color/divider_gray" />
+
+        <LinearLayout
+            android:id="@+id/ll_like_bottom"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/bg_tran2gray_sel"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:focusable="false">
+
+            <ImageView
+                android:id="@+id/iv_like_bottom"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/timeline_icon_unlike" />
+
+            <TextView
+                android:id="@+id/tv_likecount_bottom"
+                style="@style/TextViewBody"
+                android:layout_marginLeft="8dp"
+                android:text="点赞"
+                android:textColor="@color/txt_gray" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/divider_gray" />
+
+</LinearLayout>

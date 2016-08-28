@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_margin="16dp">
+
+        <ImageButton
+            android:id="@+id/btn_photo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="#00000000"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="4dp"
+            android:src="@drawable/photo_selector"/>
+
+        <TextView
+            android:id="@+id/tv_tianjia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="点击添加头像"
+            android:layout_marginBottom="30dp"
+            android:textColor="#a4adb7"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+            <TextView
+                android:background="@null"
+                android:editable="false"
+                android:id="@+id/tv_birthday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="选择生日"
+                android:textSize="16sp"
+                android:textColor="#e0e3e6"
+
+                android:layout_marginTop="12dp"
+                />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.4dp"
+            android:background="#b0b0b0"/>
+
+        <TextView
+            android:background="@null"
+            android:id="@+id/tv_hometown"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="选择家乡"
+            android:layout_marginTop="12dp"
+            android:textSize="16sp"
+            android:textColor="#e0e3e6"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.4dp"
+            android:background="#b0b0b0"/>
+
+        <LinearLayout
+            android:id="@+id/sex_selector"
+            android:layout_marginTop="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_man"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="男"
+                android:padding="10dp"
+                android:textColor="#a4adb7"
+                android:layout_weight="1"
+
+                />
+
+
+            <TextView
+                android:id="@+id/tv_woman"
+                android:layout_width="0dp"
+                android:text="女"
+                android:padding="10dp"
+                android:textColor="#a4adb7"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+        <View
+            android:layout_marginTop="-2dp"
+            android:layout_width="match_parent"
+            android:layout_height="0.4dp"
+            android:background="#b0b0b0"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="注册成功后性别不可以修改"
+            android:layout_marginTop="10dp"
+            android:textColor="#b0b0b0"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/btn_next2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#b0b0b0"
+            android:textColor="#fff"
+            android:text="下一步"
+            android:enabled="false"
+            android:textSize="16sp"
+            android:layout_marginTop="16dp"
+            style="?android:attr/borderlessButtonStyle"/>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_light"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/btn_back"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:gravity="center"
+        android:src="@drawable/back_selector"
+        android:background="@drawable/back_bac_selector"
+        android:layout_margin="16dp"
+        android:textColor="#b0b0b0"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ViewFlipper
+            android:id="@+id/reg_vf_viewflipper"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:flipInterval="1000"
+            android:persistentDrawingCache="animation" >
+        </ViewFlipper>
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
